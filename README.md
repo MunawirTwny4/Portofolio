@@ -1,6 +1,6 @@
 # Munawir **Front End Portfolio**
 ## About Me
-Hello! I'm Munawir, a passionate data scientist based in Palu, Indonesia. I specialize in leveraging data-driven insights to make informed decisions. With a solid foundation in Python, R, and deep learning algorithms, I've successfully implemented predictive models and conducted comprehensive data analyses.
+Hello! I'm Munawir, a software engineer living in Palu, Indonesia. With creativity and innovation, we can build an interface that makes things easier for users, based on a basic understanding of programming and algorithms accompanied by basic knowledge of HMTL, CSS, Javascript
 
 ## Education
 - **Tadulako University**
