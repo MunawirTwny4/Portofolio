@@ -8,3 +8,7 @@ Hello! I'm Munawir, a software engineer living in Palu, Indonesia. With creativi
   - GPA: 3.75/4.00
 
 ## Experience
+## Programmer at Kantor Perwakilan Bank Indonesia Prov. Maluku Utara
+   - Web Developer
+   - 26/02/2024 - 28/06/2024
+  
